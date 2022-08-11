@@ -1,0 +1,9 @@
+html * {
+    font-family: sans-serif;
+}
+img {
+    background-color: #ffffff;
+    margin-top: -12px;
+    max-width: 120px;
+    padding: 2px 10px;
+}
